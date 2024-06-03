@@ -1,0 +1,10 @@
+.user-navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-image: linear-gradient( 265deg, #0530ff69 10%, #ff5a008f 100%);
+  width: 100%;
+  height: 4.188rem;
+  margin: .1rem;
+  padding: .5rem;
+}

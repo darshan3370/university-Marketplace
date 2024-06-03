@@ -1,0 +1,34 @@
+
+.sidebar{
+  width: 20%;
+  height: 100vh;
+  background-image: linear-gradient( 265deg, #0530ff69 10%, #ff5a008f 100%);
+}
+
+.sidebar-link {
+  display: grid;  
+  border-radius: 5px;
+  width: 100%;
+  
+}
+.sidebar-link a{
+  padding: 25px;
+  text-decoration: none;
+  color: #000000;
+  font-weight: 900;
+
+
+}
+.sidebar-link a.active {
+  background: #6a6b6ae5;
+  size: 1in;
+  color: white;
+
+}
+
+.navbar-right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+

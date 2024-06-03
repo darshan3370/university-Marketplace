@@ -1,0 +1,74 @@
+{
+  "resources/images/team3.jpg": {
+    "file": "assets/team3.7c7c0165.jpg",
+    "src": "resources/images/team3.jpg"
+  },
+  "resources/images/team2.jpg": {
+    "file": "assets/team2.9b160e4a.jpg",
+    "src": "resources/images/team2.jpg"
+  },
+  "resources/images/team1.jpg": {
+    "file": "assets/team1.8131cb10.jpg",
+    "src": "resources/images/team1.jpg"
+  },
+  "resources/images/1.jpg": {
+    "file": "assets/1.1638f42e.jpg",
+    "src": "resources/images/1.jpg"
+  },
+  "resources/images/delivery.jpg": {
+    "file": "assets/delivery.1cd58f8e.jpg",
+    "src": "resources/images/delivery.jpg"
+  },
+  "resources/images/Support.jpg": {
+    "file": "assets/Support.a9c80dcf.jpg",
+    "src": "resources/images/Support.jpg"
+  },
+  "resources/images/header1.jpg": {
+    "file": "assets/header1.e63e6e05.jpg",
+    "src": "resources/images/header1.jpg"
+  },
+  "resources/images/useravtar.png": {
+    "file": "assets/useravtar.74a00403.png",
+    "src": "resources/images/useravtar.png"
+  },
+  "resources/images/b.jpg": {
+    "file": "assets/b.f22dc08d.jpg",
+    "src": "resources/images/b.jpg"
+  },
+  "resources/js/app.jsx": {
+    "file": "assets/app.5aba6c71.js",
+    "src": "resources/js/app.jsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "node_modules/web-vitals/dist/web-vitals.js"
+    ],
+    "css": [
+      "assets/app.02bd3f0c.css"
+    ],
+    "assets": [
+      "assets/delivery.1cd58f8e.jpg",
+      "assets/Support.a9c80dcf.jpg",
+      "assets/team3.7c7c0165.jpg",
+      "assets/team2.9b160e4a.jpg",
+      "assets/team1.8131cb10.jpg",
+      "assets/1.1638f42e.jpg",
+      "assets/useravtar.74a00403.png",
+      "assets/b.f22dc08d.jpg",
+      "assets/header1.e63e6e05.jpg"
+    ]
+  },
+  "node_modules/web-vitals/dist/web-vitals.js": {
+    "file": "assets/web-vitals.f5571398.js",
+    "src": "node_modules/web-vitals/dist/web-vitals.js",
+    "isDynamicEntry": true
+  },
+  "resources/css/app.css": {
+    "file": "assets/app.5265c558.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.css": {
+    "file": "assets/app.02bd3f0c.css",
+    "src": "resources/js/app.css"
+  }
+}
